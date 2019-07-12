@@ -6,7 +6,7 @@ All apps released under Irresponsible Engineers are subject to this Privacy Poli
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
                   
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at https://github.com/irresponsible-engineers/legal-documents/terms-and-conditions.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at https://github.com/irresponsible-engineers/legal-documents/blob/master/Terms%20%26%20Conditions.md.
 
 **Information Collection and Use**
 
